@@ -1,5 +1,5 @@
 # LandMapper_pdf
-Populating a pdf document with images and text using pdfjinja package. [Link to package page](https://github.com/rammie/pdfjinja)
+Populating a pdf document with images and text using pdfjinja package. [Link to pdfjinja repository](https://github.com/rammie/pdfjinja)
 
 Be sure to check out installation and dependency information.
 
