@@ -15,6 +15,11 @@ def fill_pdf(pdf_template, fields_to_fill, outfile):
     outfile : str, path to file
       path to the PDF output file that will be generated
 
+    Returns
+    -------
+    outfile : str
+      if output file successfully created, returns path to that file
+
     Raises
     ------
     FileNotFoundError
